@@ -1,0 +1,3 @@
+Analyzes the characters in a file.
+    The contents of the file must be unchanged.
+    Use: upp, low, dig, whi, rem = file_analyze(fv)
