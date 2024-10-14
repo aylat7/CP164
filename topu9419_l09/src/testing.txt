@@ -1,0 +1,235 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Ayla Topuz
+ID:      169069419
+Email:   topu9419@mylaurier.ca
+Version: 2023-09-13
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Hashes
+Hash     Slot Key
+-------- ---- --------------------
+     695    2 Name:       Lasagna
+Origin:     7
+Vegetarian: False
+Calories:   135
+
+    1355    4 Name:       Butter Chicken
+Origin:     2
+Vegetarian: False
+Calories:   490
+
+    1284    3 Name:       Moo Goo Guy Pan
+Origin:     1
+Vegetarian: False
+Calories:   272
+
+    1521    2 Name:       Vegetable Alicha
+Origin:     3
+Vegetarian: True
+Calories:   138
+
+    1147    6 Name:       Spanakopita
+Origin:     5
+Vegetarian: True
+Calories:   260
+
+    1132    5 Name:       Chirashi Don
+Origin:     6
+Vegetarian: False
+Calories:   600
+
+    1244    5 Name:       Canuck Burger
+Origin:     0
+Vegetarian: False
+Calories:   7500
+
+     949    4 Name:       Turducken
+Origin:     8
+Vegetarian: False
+Calories:   12240
+
+    1277    3 Name:       Shark Fin Soup
+Origin:     1
+Vegetarian: False
+Calories:   46
+
+     704    4 Name:       Chamuco
+Origin:     4
+Vegetarian: True
+Calories:   150
+
+     518    0 Name:       Natto
+Origin:     6
+Vegetarian: True
+Calories:   212
+
+    1630    6 Name:       Canada Goose Chili
+Origin:     0
+Vegetarian: False
+Calories:   199
+
+    3011    1 Name:       Diet Free-Range Gluten-free Water
+Origin:     8
+Vegetarian: True
+Calories:   0
+
+    1450    1 Name:       Kung Pao Chicken
+Origin:     1
+Vegetarian: False
+Calories:   229
+
+    1751    1 Name:       General Tao Chicken
+Origin:     1
+Vegetarian: False
+Calories:   850
+
+    2130    2 Name:       Spicy Vegetable Moo Shu
+Origin:     1
+Vegetarian: True
+Calories:   140
+
+     657    6 Name:       BBQ Pork
+Origin:     1
+Vegetarian: False
+Calories:   920
+
+    1329    6 Name:       Orange Chicken
+Origin:     1
+Vegetarian: False
+Calories:   800
+
+    2595    5 Name:       Vegetables with Cashew Nuts
+Origin:     1
+Vegetarian: True
+Calories:   143
+
+    1232    0 Name:       Lemon Chicken
+Origin:     1
+Vegetarian: False
+Calories:   226
+
+    2027    4 Name:       Beef with Green Pepper
+Origin:     1
+Vegetarian: False
+Calories:   251
+
+    1760    3 Name:       Sweet and Sour Pork
+Origin:     1
+Vegetarian: False
+Calories:   231
+
+    1492    1 Name:       Szechuan Shrimp
+Origin:     1
+Vegetarian: False
+Calories:   516
+
+     740    5 Name:       Poutine
+Origin:     0
+Vegetarian: False
+Calories:   710
+
+    1046    3 Name:       Teppanyaki
+Origin:     6
+Vegetarian: False
+Calories:   200
+
+    1011    3 Name:       Greek Salad
+Origin:     5
+Vegetarian: True
+Calories:   185
+
+    1034    5 Name:       Fettuccine
+Origin:     7
+Vegetarian: False
+Calories:   266
+
+     834    1 Name:       Teriyaki
+Origin:     6
+Vegetarian: False
+Calories:   233
+
+    1070    6 Name:       Shortbread 
+Origin:     9
+Vegetarian: True
+Calories:   502
+
+     729    1 Name:       Pavlova
+Origin:     10
+Vegetarian: True
+Calories:   272
+
+    1889    6 Name:       Hokey Pokey Ice Cream
+Origin:     10
+Vegetarian: True
+Calories:   106
+
+     615    6 Name:       Fricot
+Origin:     0
+Vegetarian: False
+Calories:   360
+
+     956    4 Name:       Chip Butty
+Origin:     11
+Vegetarian: True
+Calories:   956
+
+    1357    6 Name:       Grilled Salmon
+Origin:     0
+Vegetarian: False
+Calories:   511
+
+     726    5 Name:       Ravioli
+Origin:     7
+Vegetarian: False
+Calories:   246
+
+     495    5 Name:       Crepe
+Origin:     7
+Vegetarian: True
+Calories:   186
+
+     909    6 Name:       Fried Rice
+Origin:     1
+Vegetarian: False
+Calories:   425
+
+    1504    6 Name:       Pepperoni Pizza
+Origin:     7
+Vegetarian: False
+Calories:   713
+
+    1204    0 Name:       Chicken Kabob
+Origin:     2
+Vegetarian: False
+Calories:   167
+
+    1072    1 Name:       Panzerotti
+Origin:     7
+Vegetarian: False
+Calories:   770
+
+    1183    0 Name:       Spring Rolls
+Origin:     1
+Vegetarian: True
+Calories:   200
+
+    1551    4 Name:       Chicken Chow Mein
+Origin:     1
+Vegetarian: False
+Calories:   178
+
+    1245    6 Name:       Chicken Wings
+Origin:     8
+Vegetarian: False
+Calories:   298
+
+
+-------------------------------------------------------
+t02
+-------------------------------------------------------

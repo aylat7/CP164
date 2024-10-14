@@ -1,0 +1,118 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Ayla Topuz
+ID:      169069419
+Email:   topu9419@mylaurier.ca
+Version: 2023-09-13
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Appending data to the list:
+Appended: Lasagna|7|False|135
+
+Appended: Butter Chicken|2|False|490
+
+Appended: Moo Goo Guy Pan|1|False|272
+
+Appended: Vegetable Alicha|3|True|138
+
+Appended: Spanakopita|5|True|260
+
+Appended: Chirashi Don|6|False|600
+
+Appended: Canuck Burger|0|False|7500
+
+Appended: Turducken|8|False|12240
+
+Appended: Shark Fin Soup|1|False|46
+
+Appended: Chamuco|4|True|150
+
+Appended: Natto|6|True|212
+
+Appended: Canada Goose Chili|0|False|199
+
+Appended: Diet Free-Range Gluten-free Water|8|True|0
+
+Appended: Kung Pao Chicken|1|False|229
+
+Appended: General Tao Chicken|1|False|850
+
+Appended: Spicy Vegetable Moo Shu|1|True|140
+
+Appended: BBQ Pork|1|False|920
+
+Appended: Orange Chicken|1|False|800
+
+Appended: Vegetables with Cashew Nuts|1|True|143
+
+Appended: Lemon Chicken|1|False|226
+
+Appended: Beef with Green Pepper|1|False|251
+
+Appended: Sweet and Sour Pork|1|False|231
+
+Appended: Szechuan Shrimp|1|False|516
+
+Appended: Poutine|0|False|710
+
+Appended: Teppanyaki|6|False|200
+
+Appended: Greek Salad|5|True|185
+
+Appended: Fettuccine|7|False|266
+
+Appended: Teriyaki|6|False|233
+
+Appended: Shortbread |9|True|502
+
+Appended: Pavlova|10|True|272
+
+Appended: Hokey Pokey Ice Cream|10|True|106
+
+Appended: Fricot|0|False|360
+
+Appended: Chip Butty|11|True|956
+
+Appended: Grilled Salmon|0|False|511
+
+Appended: Ravioli|7|False|246
+
+Appended: Crepe|7|True|186
+
+Appended: Fried Rice|1|False|425
+
+Appended: Pepperoni Pizza|7|False|713
+
+Appended: Chicken Kabob|2|False|167
+
+Appended: Panzerotti|7|False|770
+
+Appended: Spring Rolls|1|True|200
+
+Appended: Chicken Chow Mein|1|False|178
+
+Appended: Chicken Wings|8|False|298
+
+
+Testing methods for an empty list:
+Is empty? None
+Length: 43
+
+Testing methods for a non-empty list:
+Inserting 'Apples' at index 2
+Find; Chicken Wings|8|False|298:  None
+Count: Chicken Wings|8|False|298  0
+Popping last value:  Chicken Wings|8|False|298
+
+Index of 'Vegetables with Cashew Nuts|1|True|143':  -1
+Max value in the list:  Vegetables with Cashew Nuts|1|True|143
+
+Min value in the list:  Apples
+removed:  None
+
+-------------------------------------------------------

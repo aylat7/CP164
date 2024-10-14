@@ -1,0 +1,46 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Ayla Topuz
+ID:      169069419
+Email:   topu9419@mylaurier.ca
+Version: 2023-09-13
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+append: ['Name:       Lasagna\nOrigin:     7\nVegetarian: False\nCalories:   135\n', 'Name:       Butter Chicken\nOrigin:     2\nVegetarian: False\nCalories:   490\n', 'Name:       Moo Goo Guy Pan\nOrigin:     1\nVegetarian: False\nCalories:   272\n', 'Name:       Vegetable Alicha\nOrigin:     3\nVegetarian: True\nCalories:   138\n', 'Name:       Spanakopita\nOrigin:     5\nVegetarian: True\nCalories:   260\n', 'Name:       Chirashi Don\nOrigin:     6\nVegetarian: False\nCalories:   600\n', 'Name:       Canuck Burger\nOrigin:     0\nVegetarian: False\nCalories:   7500\n', 'Name:       Turducken\nOrigin:     8\nVegetarian: False\nCalories:   12240\n', 'Name:       Shark Fin Soup\nOrigin:     1\nVegetarian: False\nCalories:   46\n', 'Name:       Chamuco\nOrigin:     4\nVegetarian: True\nCalories:   150\n', 'Name:       Natto\nOrigin:     6\nVegetarian: True\nCalories:   212\n', 'Name:       Canada Goose Chili\nOrigin:     0\nVegetarian: False\nCalories:   199\n', 'Name:       Diet Free-Range Gluten-free Water\nOrigin:     8\nVegetarian: True\nCalories:   0\n', 'Name:       Kung Pao Chicken\nOrigin:     1\nVegetarian: False\nCalories:   229\n', 'Name:       General Tao Chicken\nOrigin:     1\nVegetarian: False\nCalories:   850\n', 'Name:       Spicy Vegetable Moo Shu\nOrigin:     1\nVegetarian: True\nCalories:   140\n', 'Name:       BBQ Pork\nOrigin:     1\nVegetarian: False\nCalories:   920\n', 'Name:       Orange Chicken\nOrigin:     1\nVegetarian: False\nCalories:   800\n', 'Name:       Vegetables with Cashew Nuts\nOrigin:     1\nVegetarian: True\nCalories:   143\n', 'Name:       Lemon Chicken\nOrigin:     1\nVegetarian: False\nCalories:   226\n', 'Name:       Beef with Green Pepper\nOrigin:     1\nVegetarian: False\nCalories:   251\n', 'Name:       Sweet and Sour Pork\nOrigin:     1\nVegetarian: False\nCalories:   231\n', 'Name:       Szechuan Shrimp\nOrigin:     1\nVegetarian: False\nCalories:   516\n', 'Name:       Poutine\nOrigin:     0\nVegetarian: False\nCalories:   710\n', 'Name:       Teppanyaki\nOrigin:     6\nVegetarian: False\nCalories:   200\n', 'Name:       Greek Salad\nOrigin:     5\nVegetarian: True\nCalories:   185\n', 'Name:       Fettuccine\nOrigin:     7\nVegetarian: False\nCalories:   266\n', 'Name:       Teriyaki\nOrigin:     6\nVegetarian: False\nCalories:   233\n', 'Name:       Shortbread \nOrigin:     9\nVegetarian: True\nCalories:   502\n', 'Name:       Pavlova\nOrigin:     10\nVegetarian: True\nCalories:   272\n', 'Name:       Hokey Pokey Ice Cream\nOrigin:     10\nVegetarian: True\nCalories:   106\n', 'Name:       Fricot\nOrigin:     0\nVegetarian: False\nCalories:   360\n', 'Name:       Chip Butty\nOrigin:     11\nVegetarian: True\nCalories:   956\n', 'Name:       Grilled Salmon\nOrigin:     0\nVegetarian: False\nCalories:   511\n', 'Name:       Ravioli\nOrigin:     7\nVegetarian: False\nCalories:   246\n', 'Name:       Crepe\nOrigin:     7\nVegetarian: True\nCalories:   186\n', 'Name:       Fried Rice\nOrigin:     1\nVegetarian: False\nCalories:   425\n', 'Name:       Pepperoni Pizza\nOrigin:     7\nVegetarian: False\nCalories:   713\n', 'Name:       Chicken Kabob\nOrigin:     2\nVegetarian: False\nCalories:   167\n', 'Name:       Panzerotti\nOrigin:     7\nVegetarian: False\nCalories:   770\n', 'Name:       Spring Rolls\nOrigin:     1\nVegetarian: True\nCalories:   200\n', 'Name:       Chicken Chow Mein\nOrigin:     1\nVegetarian: False\nCalories:   178\n', 'Name:       Chicken Wings\nOrigin:     8\nVegetarian: False\nCalories:   298\n']
+
+__eq__ method: False
+
+__getitem__ method: Name:       Lasagna
+Origin:     7
+Vegetarian: False
+Calories:   135
+
+
+clean  method: ['Name:       Lasagna\nOrigin:     7\nVegetarian: False\nCalories:   135\n', 'Name:       Butter Chicken\nOrigin:     2\nVegetarian: False\nCalories:   490\n', 'Name:       BBQ Pork\nOrigin:     1\nVegetarian: False\nCalories:   920\n']
+
+combine method: ['Name:       Lasagna\nOrigin:     7\nVegetarian: False\nCalories:   135\n', 'Name:       Butter Chicken\nOrigin:     2\nVegetarian: False\nCalories:   490\n', 'Name:       BBQ Pork\nOrigin:     1\nVegetarian: False\nCalories:   920\n']
+
+intersection method: ['Name:       Lasagna\nOrigin:     7\nVegetarian: False\nCalories:   135\n']
+
+prepend method: ['Name:       Lasagna\nOrigin:     7\nVegetarian: False\nCalories:   135\n', 'Name:       Lasagna\nOrigin:     7\nVegetarian: False\nCalories:   135\n']
+
+remove front method: ['Name:       Lasagna\nOrigin:     7\nVegetarian: False\nCalories:   135\n']
+
+remove many method: ['Name:       Lasagna\nOrigin:     7\nVegetarian: False\nCalories:   135\n']
+
+split method: 1: [] 2: ['Name:       Lasagna\nOrigin:     7\nVegetarian: False\nCalories:   135\n']]n
+split alt method: 1: [] 2: []]n
+combine method: ['Name:       Butter Chicken\nOrigin:     2\nVegetarian: False\nCalories:   490\n', 'Name:       Lasagna\nOrigin:     7\nVegetarian: False\nCalories:   135\n']
+
+done
+
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+
+-------------------------------------------------------

@@ -1,0 +1,122 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Ayla Topuz
+ID:      169069419
+Email:   topu9419@mylaurier.ca
+Version: 2023-09-13
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+1
+5
+7
+3
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+[6, 3, 7]
+[1, 6, 3, 7]
+[1, 2, 6, 3, 7]
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+is empty True
+POP: 3
+POP: 7
+POP: 5
+POP: 1
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+is empty True
+POP: Chicken Wings|8|False|298
+
+POP: Chicken Chow Mein|1|False|178
+
+POP: Spring Rolls|1|True|200
+
+POP: Panzerotti|7|False|770
+
+POP: Chicken Kabob|2|False|167
+
+POP: Pepperoni Pizza|7|False|713
+
+POP: Fried Rice|1|False|425
+
+POP: Crepe|7|True|186
+
+POP: Ravioli|7|False|246
+
+POP: Grilled Salmon|0|False|511
+
+POP: Chip Butty|11|True|956
+
+POP: Fricot|0|False|360
+
+POP: Hokey Pokey Ice Cream|10|True|106
+
+POP: Pavlova|10|True|272
+
+POP: Shortbread |9|True|502
+
+POP: Teriyaki|6|False|233
+
+POP: Fettuccine|7|False|266
+
+POP: Greek Salad|5|True|185
+
+POP: Teppanyaki|6|False|200
+
+POP: Poutine|0|False|710
+
+POP: Szechuan Shrimp|1|False|516
+
+POP: Sweet and Sour Pork|1|False|231
+
+POP: Beef with Green Pepper|1|False|251
+
+POP: Lemon Chicken|1|False|226
+
+POP: Vegetables with Cashew Nuts|1|True|143
+
+POP: Orange Chicken|1|False|800
+
+POP: BBQ Pork|1|False|920
+
+POP: Spicy Vegetable Moo Shu|1|True|140
+
+POP: General Tao Chicken|1|False|850
+
+POP: Kung Pao Chicken|1|False|229
+
+POP: Diet Free-Range Gluten-free Water|8|True|0
+
+POP: Canada Goose Chili|0|False|199
+
+POP: Natto|6|True|212
+
+POP: Chamuco|4|True|150
+
+POP: Shark Fin Soup|1|False|46
+
+POP: Turducken|8|False|12240
+
+POP: Canuck Burger|0|False|7500
+
+POP: Chirashi Don|6|False|600
+
+POP: Spanakopita|5|True|260
+
+POP: Vegetable Alicha|3|True|138
+
+POP: Moo Goo Guy Pan|1|False|272
+
+POP: Butter Chicken|2|False|490
+
+POP: Lasagna|7|False|135
+
+-------------------------------------------------------
